@@ -670,10 +670,10 @@ section
 }
 .home_content h3
 {
-	font-size: 72px;
-	font-weight: 400;
+	font-size: 40px;
+	font-weight: 300;
 	color: #FFFFFF;
-	line-height: 0.5;
+	line-height: 1.2;
 }
 
 /*********************************
