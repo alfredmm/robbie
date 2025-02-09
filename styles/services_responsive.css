@@ -308,7 +308,9 @@
 	}
 	.logo img
 	{
-		width: 30px;
+		width: 90%;
+		float: left;
+		height: auto;
 	}
 	.logo span
 	{
